@@ -1,8 +1,4 @@
 # pb
-Автор - Петренко Дмитрий Андреевич
-sailsdima@mail.ru
-skype: sailsdima
- +380981344836
  
 This is a simple client-server app that uses sockets.
 
